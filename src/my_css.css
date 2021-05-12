@@ -1,0 +1,111 @@
+
+
+.clasApp {
+    width: 950px;
+    height: 850px;
+    margin: auto;
+    font-family: Gilroy;
+}
+.header{
+
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.menu{
+    width: 500px;
+    height: 82px;
+    display: flex;
+    justify-content: flex-end;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 28,5;
+    list-style-type: none;
+    color:#003399;
+
+}
+.menu_item{
+    padding-left: 30px;
+
+}
+.logo{
+    width: 200px;
+    height: 82px;
+    padding-top: 10px;
+}
+.number{
+    width: 584px;
+    height: 320px;
+    font-size: 288px;
+    text-align: center;
+    color: #F27C0F;
+
+    margin: auto;
+}
+.menu_button{
+    width: 742px;
+    height: 116px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.button{
+    width: 200px;
+    height: 58px;
+    text-align: center;
+    font-size: 24px;
+    margin-top: 80px;
+    border-radius: 4px;
+    line-height: 58px;
+    color: white;
+}
+.but_1{
+    background-color: #003399;
+
+}
+.but_2{
+    background-color: #F27C0F;
+
+}
+.but_3{
+    background-color: #E5E5E5;
+    color: black;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    width: 950px;
+    height: 75px;
+    position: absolute;
+    top: 900px;
+}
+.foot_logo {
+    width: 112px;
+    height: 51px;
+    opacity: 0.2;
+
+    vertical-align: center;
+
+}
+.sublogo{
+    width: 112px;
+
+}
+.foot_menu{
+    width: 360px;
+    height: 40px;
+    padding-top: 10px;
+    padding-right: 150px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 16px;
+
+}
+.copyright{
+    font-size: 16px;
+    padding-top: 10px;
+}
+a{
+   text-decoration: none;
+}
